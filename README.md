@@ -1,0 +1,2 @@
+# Parallel Resistor Calculator
+ 
